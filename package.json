@@ -1,13 +1,13 @@
 {
-  "name": "belly-graphs",
+  "name": "belly-button-biodiversity",
   "version": "1.0.0",
   "type": "module",
   "description": "Belly Graphs on Biodiversity Data. Visualization done with Plotly.js.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JovaniPink/belly-graphs.git"
+    "url": "git+https://github.com/JovaniPink/belly-button-biodiversity.git"
   },
-  "homepage": "https://github.com/JovaniPink/belly-graphs#readme",
+  "homepage": "https://github.com/JovaniPink/belly-button-biodiversity#readme",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

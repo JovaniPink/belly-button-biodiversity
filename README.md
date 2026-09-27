@@ -88,3 +88,6 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+Repository: [JovaniPink/belly-button-biodiversity](https://github.com/JovaniPink/belly-button-biodiversity). Local checkout: `belly-button-biodiversity`.
+The previous GitHub Pages address remains a compatibility website. Source code and issues now belong to the renamed repository.

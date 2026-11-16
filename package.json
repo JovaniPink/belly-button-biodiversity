@@ -25,7 +25,7 @@
   "author": "Jovani Pink",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "5.3.8",
+    "bootstrap": "5.3.9",
     "d3": "7.9.0",
     "plotly.js-dist-min": "3.7.0"
   },
